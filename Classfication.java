@@ -6,7 +6,7 @@ package classfication;
 
 /**
  *
- * @author D-LUCAS
+ * @author riam tawakal
  */
 import java.util.*;
 public class Classfication {
